@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # react-js-buy-sdk
 
 An example using [js-buy-sdk](https://github.com/Shopify/js-buy-sdk) built with [React](https://facebook.github.io/react/). This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -56,3 +57,6 @@ All developers who wish to contribute through code or issues, take a look at the
 MIT, see [LICENSE](https://github.com/Shopify/storefront-api-examples/blob/master/LICENSE.txt) for details.
 
 <img src="https://cdn.shopify.com/shopify-marketing_assets/builds/19.0.0/shopify-full-color-black.svg" width="200" />
+=======
+# Strapped
+>>>>>>> c22dde906c0b336164d5eea0e59b482d1be51c43
